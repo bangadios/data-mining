@@ -1,2 +1,2 @@
-# data-mining
-Contain my code in python (notebook) while learning data mining
+# Data Mining
+Contain my code in python _(notebook)_ while learning data mining
